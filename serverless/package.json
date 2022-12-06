@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "stripe": "^4.25.0"
+    "stripe": "^11.1.0"
   }
 }
